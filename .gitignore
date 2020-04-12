@@ -1,0 +1,10 @@
+.idea/.name
+.idea/deployment.xml
+.idea/example_for_full_remote_mode_of_clion_with_docker.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+cmake-build-debug
+cmake-build-debug-remote-host
+.idea/other.xml
