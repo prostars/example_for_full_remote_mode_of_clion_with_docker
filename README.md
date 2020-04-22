@@ -1,6 +1,6 @@
 # Example For Full Remote Mode Of CLion With Docker
 
-URL : 
+URL :  
   https://prostars.net/312  
   https://www.popit.kr/full-remote-mode-of-clion-with-docker/
 
